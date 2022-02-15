@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd35BF0EDedcA3FD1C1729245FdE96cC937036392",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd35BF0EDedcA3FD1C1729245FdE96cC937036392",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BEAST BULLY",
+  "SYMBOL": "BBNFT",
+  "MAX_SUPPLY": 2477,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/beastbully",
+  "SHOW_BACKGROUND": true
+}
